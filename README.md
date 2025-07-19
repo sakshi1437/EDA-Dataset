@@ -1,6 +1,5 @@
 # 📊 Data Exploration Datasets Collection
-
-Welcome to the **Data Analysis & EDA Practice Repository**!  
+**Exploratory Data Analysis (EDA) **!  
 This repository contains real-world datasets perfect for learning and applying **Exploratory Data Analysis (EDA)**, **data visualization**, **data preprocessing**, and **machine learning**.
 
 ---
